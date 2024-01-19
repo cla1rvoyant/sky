@@ -16,7 +16,7 @@ body {font-family: 'Montserrat', sans-serif;font-size: 15px;color: #333;line-hei
 .intro{
     width: 100%;
     height: 100vh;
-    background: url(https://bgfons.com/upload/clouds_texture2908.jpg) center no-repeat;
+    background: url(https://bgfons.com/uploads/clouds/clouds_texture2908.jpg) center no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
